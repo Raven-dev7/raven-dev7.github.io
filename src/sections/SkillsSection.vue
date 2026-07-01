@@ -57,7 +57,6 @@ const skillCategories = ref([
     items: [
       'GDScript',
       'Python',
-      'C',
       'Go-Lang',
       'JavaScript / TypeScript',
       'C#',
@@ -70,8 +69,7 @@ const skillCategories = ref([
     color: '#8b5cf6', // purple
     items: [
       'Game Development',
-      'Systems Programming',
-      'Backend Architecture',
+      'App Development',
       'Troubleshooting',
       'Linux Ricing'
     ]
@@ -84,7 +82,7 @@ const skillCategories = ref([
       'Godot Engine',
       'Unity',
       'Git & GitHub',
-      'Linux (CLI)',
+      'Linux',
       'Photoshop',
       'GIMP'
     ]

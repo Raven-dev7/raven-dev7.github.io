@@ -67,7 +67,7 @@ export const projects = [
       },
       {
         title: 'Monitoring',
-        items: ['Live CPU, RAM, battery telemetry', 'Autoruns', 'Log collection & viewing'],
+        items: ['Live CPU, RAM, battery telemetry', "Screenshots & Screenshare",'Autoruns', 'Log collection & viewing'],
         media: { type: 'image', src: '/media/remotelink/metrics.png' }
       }
     ],
@@ -150,6 +150,29 @@ The project demonstrates game development techniques including split-screen inpu
       { platform: 'Windows', url: 'https://drive.usercontent.google.com/download?id=1EuGCz9uhlHVAkSmWBfvk6EPdk1wxe-qI&export=download&confirm=t&uuid=e90aaeea-692b-4a29-998d-2315606386ee' },
       { platform: 'Android', url: 'https://drive.usercontent.google.com/download?id=1ZqsN1iX2bCx-RQm6HeGHb9D2y6ESxZqs&export=download&confirm=t&uuid=8e91c09c-2001-4eca-8aaa-aa6707c86cdd' }
     ],
+
+    // Dev updates / changelog
+    updates: [
+      {
+        date: '2025-02-22',
+        title: 'Added New Units/Trops',
+        description: 'Newly added : TNT, Blackhole, HomingBox',
+        tags: ['feature']
+      },
+      {
+        date: '2025-02-3',
+        title: 'Overhalled Menu',
+        description: 'Added swarn of trops/units fighting in the background.',
+        tags: ["UI/UX",'feature']
+      },
+      {
+        date: '2025-01-2',
+        title: 'Switched to Rapier Physicss',
+        description: 'Using rapier physics SIMD',
+        tags: ['architecture']
+      }
+    ]
+
   },
   // Mini Projects
   {
