@@ -120,7 +120,7 @@ export const projects = [
 
 The project demonstrates game development techniques including split-screen input handling, mutlplayer netcode, physics simulation, player input handling, and game state management. The architecture is designed for extensibility, allowing easy addition of new game modes and features.
 `,
-    tech: ['Godot', 'GDScript', 'Rapier Physics'],
+    tech: ['Godot', 'GDScript'],
 
     // Classification
     type: 'full',
@@ -147,8 +147,8 @@ The project demonstrates game development techniques including split-screen inpu
     ],
     // github: 'https://github.com/Raven-dev7/collision',
     downloads: [
-      { platform: 'Windows', url: 'https://drive.usercontent.google.com/download?id=1EuGCz9uhlHVAkSmWBfvk6EPdk1wxe-qI&export=download&confirm=t&uuid=e90aaeea-692b-4a29-998d-2315606386ee' },
-      { platform: 'Android', url: 'https://drive.usercontent.google.com/download?id=1ZqsN1iX2bCx-RQm6HeGHb9D2y6ESxZqs&export=download&confirm=t&uuid=8e91c09c-2001-4eca-8aaa-aa6707c86cdd' }
+      // { platform: 'Windows', url: 'https://drive.usercontent.google.com/download?id=1EuGCz9uhlHVAkSmWBfvk6EPdk1wxe-qI&export=download&confirm=t&uuid=e90aaeea-692b-4a29-998d-2315606386ee' },
+      { platform: 'Android', url: 'https://drive.usercontent.google.com/download?id=1nMIj0TkxRk3jQ49vjtnkQIUper36xJrs&export=download&authuser=0' }
     ],
 
     // Dev updates / changelog
