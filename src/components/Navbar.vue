@@ -54,7 +54,7 @@ const router = useRouter()
 const route = useRoute()
 
 const githubUrl = 'https://github.com/Raven-dev7'
-const resumeUrl = 'https://docs.google.com/document/d/13WUQ3jcYsSmPufD2Sc0LFyxiYSCOhgC26a1MhmYqLCo/edit?usp=sharing'
+const resumeUrl = 'https://docs.google.com/document/d/10tNKfev0OzLSIyi6xnyCZpDBKRSvagjVENJ1kQu61I0/edit?usp=sharing'
 
 const mobileMenuOpen = ref(false)
 const isScrolled = ref(false)
